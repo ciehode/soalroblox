@@ -70,7 +70,7 @@ B: 11
 C: 12
 ANSWER: C
 ---
-Q: Sebuah kotak berisi 24 kue. Jika dibagikan kepada 6 anak sama banyak, masing-masing mendapat?
+Q: Sebuah kotak berisi 24 kue. Jika dibagikan kepada 6 anak sama banyak, masing mendapat?
 A: 3
 B: 4
 C: 5
@@ -177,3 +177,4 @@ A: 6 m³
 B: 7 m³
 C: 8 m³
 ANSWER: C
+
